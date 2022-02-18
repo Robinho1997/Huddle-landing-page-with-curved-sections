@@ -85,7 +85,7 @@ h1, h2, h3 {
     align-items: center;
     flex-wrap: wrap;
     margin-top: 5em;
-    background-image: url(/images/bg-section-top-desktop-1.svg);
+    background-image: url(images/bg-section-top-desktop-1.svg);
     background-repeat: no-repeat;
     background-position: bottom;
     padding-bottom: 10em;
@@ -134,8 +134,8 @@ font-size: 6rem;
 }
 
 .hintergrundbild-mitte-unten {
-    background-image: url(/images/bg-section-bottom-desktop-1.svg),
-                      url(/images/bg-section-top-desktop-2.svg);
+    background-image: url(images/bg-section-bottom-desktop-1.svg),
+                      url(images/bg-section-top-desktop-2.svg);
     background-repeat: no-repeat, no-repeat;
     background-size: contain;
     padding-top: 10em;
@@ -169,7 +169,7 @@ font-size: 6rem;
 }
 
 .hintergrund-kurve {
-    background-image: url(/images/bg-footer-top-desktop.svg) , url(/images/bg-section-bottom-desktop-2.svg);
+    background-image: url(images/bg-footer-top-desktop.svg) , url(images/bg-section-bottom-desktop-2.svg);
     background-position: bottom, top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -440,7 +440,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     margin-top: 5em;
-    background-image: url(/images/bg-section-top-desktop-1.svg);
+    background-image: url(images/bg-section-top-desktop-1.svg);
     background-repeat: no-repeat;
     background-position: bottom;
     padding-bottom: 8em;
